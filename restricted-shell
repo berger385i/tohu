@@ -1,0 +1,4 @@
+
+Set PATH variable after getting out of the restricted shell
+export PATH=/bin:/usr/bin:$PATH
+export SHELL=/bin/bash:$SHELL
